@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:id="@+id/inner_row_item"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:cardElevation="7dp"
+        android:outlineAmbientShadowColor="@color/cardview_dark_background"
+        app:cardCornerRadius="4dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="210sp"
+            android:layout_height="150sp"
+            android:src="@drawable/default_image"
+            android:visibility="gone"
+            />
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:visibility="gone"
+            app:showFullScreenButton="false" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>

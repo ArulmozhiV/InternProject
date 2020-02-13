@@ -1,0 +1,54 @@
+[{
+	"title": "Music",
+	"text": "Music speaks what cannot be expressed.\n Soothes the mind and gives it rest \nHeals the heart and makes it whole \nFlows from heaven to the soul",
+	"media": {
+		"image": ["https://ih1.redbubble.net/image.264813427.0801/fpp,small,lustre,wall_texture,product,750x1000.u7.jpg",
+			"https://i.pinimg.com/originals/76/cb/60/76cb607e7517efe558d6dbdce49d6b10.jpg",
+			"https://i.pinimg.com/474x/d5/06/79/d506790010a82ef890f70c3ff8cd52a0.jpg",
+			"https://wisdomquotes.com/wp-content/uploads/music-quotes-music-can-change-the-world-ludwig-van-beethoven-wisdom-quotes.jpg",
+			"https://thumbs.dreamstime.com/z/music-strongest-form-magic-hand-drawn-lettering-quote-music-quotes-music-strongest-form-magic-hand-drawn-150229816.jpg"]
+
+	}
+
+	},
+	{
+		"title": "Dance",
+		"media": {
+			"video" : ["SgiLOzFQh14",
+				"QBL6AlECywI",
+				"tfBanyJqwtk"]
+
+		}
+
+	},
+	{
+		"title": "Art",
+		"media": {
+			"image": ["https://i.pinimg.com/originals/2e/96/6e/2e966e139f56a998a49d6b3f3897b071.png",
+				"https://i.pinimg.com/originals/d5/55/58/d55558c9a9065912ad055dda91a16808.jpg",
+				"https://inspirationfeed.com/wp-content/uploads/2017/06/Art-Quotes-from-Famous-Artists27-min.jpg"]
+		}
+
+	},
+	{
+		"title": "Literature",
+		"text": "Literature speaks the language of the imagination, and the study of literature is supposed to train and improve the imagination. \n\n Literature is one of the most interesting and significant expressions of humanity."
+
+	},
+
+	{
+		"title": "Motivation",
+		"text": "Be grateful for the good times and keep faith during the bad times.\nStay positive when life gives you every reason to be negative :)",
+		"media": {
+			"image": ["https://cdn.lifehack.org/wp-content/uploads/2016/12/08230522/best-motivational-quotes-dont-limit-challenges.png",
+				"https://i.pinimg.com/originals/a8/11/17/a81117340700edc5534ec1972ed68204.jpg",
+				"https://motivationping.com/wp-content/uploads/2017/10/motivational-quotes-59.jpg",
+				"https://www.success.com/wp-content/uploads/legacy/sites/default/files/16_14.jpg"],
+			"video" : ["MxCPxzkwBKo",
+				"MJoczdESU24"]
+
+		}
+
+	}
+
+]
